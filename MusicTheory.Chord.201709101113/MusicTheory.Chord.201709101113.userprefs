@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console/Program.cs">
+    <Files>
+      <File FileName="Console/Program.cs" Line="85" Column="1" />
+      <File FileName="MusicTheory.Chord.201709101113/Degree.cs" Line="14" Column="55" />
+      <File FileName="MusicTheory.Chord.201709101113/Accidental.cs" Line="10" Column="2" />
+      <File FileName="MusicTheory.Chord.201709101113/Interval.cs" Line="24" Column="4" />
+      <File FileName="MusicTheory.Chord.201709101113/Key.cs" Line="19" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Console" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Program.cs" selected="True" />
+          </Node>
+          <Node name="MusicTheory.Chord.201709101113" expanded="True">
+            <Node name="Properties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>match</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/tmp/CSharp.MusicTheory.Accidental.IsSameChars.201709111125/MusicTheory.Chord.201709101113/MusicTheory.Chord.201709101113/Accidental.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
